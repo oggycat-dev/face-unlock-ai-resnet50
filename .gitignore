@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Môi trường ảo
+venv/
+env/
+
+# File dữ liệu người dùng
+user_database.json
+
+# File model lớn
+*.h5
