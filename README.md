@@ -18,8 +18,7 @@ This is an AI project that uses Deep Learning to build a facial authentication s
 
 1.  **Clone this repository to your machine:**
     ```bash
-    git clone [Your-GitHub-Repository-URL]
-    cd [your-repository-name]
+    git clone [https://github.com/oggycat-dev/face-unlock-ai-resnet50.git]
     ```
 
 2.  **Install the required libraries:**
@@ -29,7 +28,7 @@ This is an AI project that uses Deep Learning to build a facial authentication s
 
 3.  **Download the Model File:**
     The model file `face_recognition_resnet50.h5` is too large for GitHub. You need to download it manually from the link below and place it in the project directory:
-    **[Paste the download link for your .h5 model here]**
+    **[https://www.kaggle.com/models/tuandatdanh/face_recognition_finetuned]**
 
 4.  **Enroll your face:**
     Open a Terminal/Command Prompt in the project directory and run the command:
